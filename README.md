@@ -1,6 +1,14 @@
-<h1 align="center">Hola, soy Brian 👋</h1>
+<!-- Banner animado -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hola,%20soy%20Brian&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Desarrollador%20Python%20%7C%20Backend%20%7C%20UI/UX&descAlignY=55&descAlign=62" width="100%"/>
+</p>
 
-<h3 align="center">Desarrollador apasionado por Python, Backend y UI/UX Moderno</h3>
+<!-- Efecto de escritura -->
+<p align="center">
+  <a href="https://github.com/dev-brian">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2DF9FF&center=true&vCenter=true&width=600&lines=Desarrollador+Backend+en+Python;Apasionado+por+UI%2FUX+Moderno;Entusiasta+de+Linux+y+Open+Source;Me+encanta+la+automatización" alt="Typing SVG" />
+  </a>
+</p>
 
 <br/>
 
@@ -16,7 +24,10 @@
 - 🌱 Enfocado en mejorar mis habilidades en **Arquitectura de Software**, **Seguridad (nPhoneKIT)** y **Diseño UI/UX** (creando interfaces con "Glassmorphism" y modo oscuro).
 - 🛠️ Tengo experiencia en automatización de procesos, como mi proyecto **Music Downloader v2** con integración a Navidrome.
 - 🤔 Siempre buscando cómo optimizar y hacer que el código sea más limpio y mantenible.
-- 📫 Puedes contactarme en: **[Tu Correo / Enlace a LinkedIn]**
+- 📫 Puedes contactarme en:<br>
+  <a href="mailto:dev.brianoctavio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/brian-octavio-romero-arellano-a3ab10310/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/dev-brian"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 ---
 
