@@ -61,7 +61,7 @@
 ### 📈 Mis Estadísticas en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-brian&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas de dev-brian" />
+  <img src="https://github-stats-extended.vercel.app/api?username=dev-brian&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas de dev-brian" />
 </div>
 
 <br/>
@@ -73,10 +73,21 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-brian&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Lenguajes más usados" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dev-brian&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Lenguajes más usados" />
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-brian/dev-brian/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-brian/dev-brian/pacman-output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dev-brian/dev-brian/pacman-output/pacman-contribution-graph.svg">
+  </picture>
 </div>
 
 ---
+
 <p align="center">
   <i>Construyendo soluciones eficientes y hermosas, una línea de código a la vez. 💻✨</i>
 </p>
